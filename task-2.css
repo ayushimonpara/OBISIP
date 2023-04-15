@@ -1,0 +1,67 @@
+body{
+    background-color: #120000;
+}
+h1{
+    color: white;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    text-shadow: 2px 2px 9px white ;
+}
+#ar{
+    border-radius: 300px;
+    float: right;
+    height: 250px;
+    width:250px;
+    
+     }
+#second{
+    height: 300px;
+    width: 1500px;
+    color: white;
+    background-color:rgb(79 47 47);
+    text-align: justify;
+    
+    }
+    p{
+        font-size: 16px;
+        font-family: Comic Sans MS;
+    }
+    h2{
+        font-family: Comic Sans MS;
+        text-shadow: 2px 2px 9px white ;
+    }
+    #third{
+        text-align: justify;
+        height: 400px;
+    width: 1500px;
+    color: white;
+    background-color:rgb(61 43 43);
+    
+    }
+    #as{
+        border-radius: 300px;
+        float: left;
+        height: 300px;
+        width:300px;  
+    }
+    #qu{
+        color: #c05a5a;
+        text-shadow: none;
+    }
+    #fourth{
+        height: 300px;
+        width: 1500px;
+        color: white;
+        background-color:rgb(79 47 47);
+        text-align: justify;
+    }
+    #as1{
+        float: right;
+        height:300px;
+        width:300px;
+       
+     border-radius: 300px;
+    }
+    p{
+        color: lightcyan;
+    }
